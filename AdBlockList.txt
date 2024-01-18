@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 ! Title: d3Host List by d3ward
 ! Expires: 1 days
 ! Description: Simple and small list with the most popular advertising, tracking, analytics and social advertising services
