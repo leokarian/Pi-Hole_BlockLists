@@ -1,58 +1,58 @@
 # Title: Leok DNS Blocklist
 #
-0.beer
-partner.ads.js
-analyticsengine.s3.amazonaws.com
-analytics.s3.amazonaws.com
-advertising-api-eu.amazon.com
-afs.googlesyndication.com
-adm.hotjar.com
-identify.hotjar.com
-insights.hotjar.com
-surveys.hotjar.com
-events.hotjar.io
-tools.mouseflow.com
-cdn-test.mouseflow.com
-freshmarketer.com
-claritybt.freshmarketer.com
-fwtracks.freshmarketer.com
-api.luckyorange.com
-realtime.luckyorange.com
-cdn.luckyorange.com
-w1.luckyorange.com
-api.bugsnag.com
-app.bugsnag.com
-browser.sentry-cdn.com
-app.getsentry.com
-widgets.pinterest.com
-events.reddit.com
-ads-api.tiktok.com
-analytics-sg.tiktok.com
-business-api.tiktok.com
-log.byteoversea.com
-udc.yahoo.com
-udcm.yahoo.com
-log.fc.yahoo.com
-adtech.yahooinc.com
-extmaps-api.yandex.net
-adfstat.yandex.ru
-metrika.yandex.ru
-offerwall.yandex.net
-adfox.yandex.ru
-bdapi-ads.realmemobile.com
-bdapi-in-ads.realmemobile.com
-ck.ads.oppomobile.com
-data.mistat.india.xiaomi.com
-data.mistat.rus.xiaomi.com
-click.oneplus.cn
-metrics.data.hicloud.com
-metrics2.data.hicloud.com
-grs.hicloud.com
-logservice.hicloud.com
-logservice1.hicloud.com
-logbak.hicloud.com
-advertising.apple.com
-api-adservices.apple.com
-books-analytics-events.apple.com
-samsung-com.112.2o7.net
-analytics-api.samsunghealthcn.com
+0.0.0.0 0.beer
+0.0.0.0 partner.ads.js
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 analytics.s3.amazonaws.com
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 afs.googlesyndication.com
+0.0.0.0 adm.hotjar.com
+0.0.0.0 identify.hotjar.com
+0.0.0.0 insights.hotjar.com
+0.0.0.0 surveys.hotjar.com
+0.0.0.0 events.hotjar.io
+0.0.0.0 tools.mouseflow.com
+0.0.0.0 cdn-test.mouseflow.com
+0.0.0.0 freshmarketer.com
+0.0.0.0 claritybt.freshmarketer.com
+0.0.0.0 fwtracks.freshmarketer.com
+0.0.0.0 api.luckyorange.com
+0.0.0.0 realtime.luckyorange.com
+0.0.0.0 cdn.luckyorange.com
+0.0.0.0 w1.luckyorange.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 app.getsentry.com
+0.0.0.0 widgets.pinterest.com
+0.0.0.0 events.reddit.com
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 analytics-sg.tiktok.com
+0.0.0.0 business-api.tiktok.com
+0.0.0.0 log.byteoversea.com
+0.0.0.0 udc.yahoo.com
+0.0.0.0 udcm.yahoo.com
+0.0.0.0 log.fc.yahoo.com
+0.0.0.0 adtech.yahooinc.com
+0.0.0.0 extmaps-api.yandex.net
+0.0.0.0 adfstat.yandex.ru
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 offerwall.yandex.net
+0.0.0.0 adfox.yandex.ru
+0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
+0.0.0.0 ck.ads.oppomobile.com
+0.0.0.0 data.mistat.india.xiaomi.com
+0.0.0.0 data.mistat.rus.xiaomi.com
+0.0.0.0 click.oneplus.cn
+0.0.0.0 metrics.data.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 grs.hicloud.com
+0.0.0.0 logservice.hicloud.com
+0.0.0.0 logservice1.hicloud.com
+0.0.0.0 logbak.hicloud.com
+0.0.0.0 advertising.apple.com
+0.0.0.0 api-adservices.apple.com
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 analytics-api.samsunghealthcn.com
